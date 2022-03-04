@@ -1,0 +1,15 @@
+[submodule "services/config-server-service"]
+	path = services/config-server-service
+	url = https://github.com/candradebh/config-server-service.git
+[submodule "services/api-gateway-service"]
+	path = services/api-gateway-service
+	url = https://github.com/candradebh/api-gateway-service.git
+[submodule "services/eureka-server-service"]
+	path = services/eureka-server-service
+	url = https://github.com/candradebh/eureka-server-service.git
+[submodule "services/auth-service"]
+	path = services/auth-service
+	url = https://github.com/candradebh/auth-service.git
+[submodule "frontend/front-vuejs-microservices"]
+	path = frontend/front-vuejs-microservices
+	url = https://github.com/candradebh/front-vuejs-microservices.git
