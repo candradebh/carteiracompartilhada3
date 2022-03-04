@@ -3,5 +3,10 @@
 <aop-project name="eureka-server-service"/>
 <aop-project name="api-gateway-service"/>
 <aop-project name="auth-service"/>
+<aop-project name="investimentos">
+<aspect-definition advice-class-name="com.netflix.hystrix.contrib.javanica.aop.aspectj.HystrixCommandAspect" advice-method-name="methodsAnnotatedWithHystrixCommand(org.aspectj.lang.ProceedingJoinPoint)" advice-type="AROUND" aspect-end-line-number="-1" aspect-name="hystrixCommandAspect" aspect-start-line-number="-1" factory-id="org.springframework.ide.eclipse.aop.core.annotationAspectDefinitionElementFactory" file="/investimentos/src/main/java/dev/carlosandrade/microservice/investimento/InvestimentosApplication.java" pointcut-expression="hystrixCommandAnnotationPointcut() || hystrixCollapserAnnotationPointcut()" proxy-target-class="true">
+<aop-reference advice-type="AROUND" bean="1:BeansModel|2:investimentos|3:java:dev.carlosandrade.microservice.investimento.InvestimentosApplication|8:carteiraService:11" bean-file="/investimentos/src/main/java/dev/carlosandrade/microservice/investimento/service/CarteiraService.java" bean-start-line="11" factory-id="org.springframework.ide.eclipse.aop.core.aopReferenceElementFactory" file="/investimentos/src/main/java/dev/carlosandrade/microservice/investimento/InvestimentosApplication.java" source="=investimentos/C:\/Users\/calbertoma\/.m2\/repository\/com\/netflix\/hystrix\/hystrix-javanica\/1.5.18\/hystrix-javanica-1.5.18.jar&lt;com.netflix.hystrix.contrib.javanica.aop.aspectj(HystrixCommandAspect.class[HystrixCommandAspect~methodsAnnotatedWithHystrixCommand~Lorg.aspectj.lang.ProceedingJoinPoint;" source-start-line="-1" target="=investimentos/src\/main\/java&lt;dev.carlosandrade.microservice.investimento.service{CarteiraService.java[CarteiraService~getById~QLong;" target-start-line="17"/>
+</aspect-definition>
+</aop-project>
 <aop-project name="config-server-service"/>
 </aop-reference-model>

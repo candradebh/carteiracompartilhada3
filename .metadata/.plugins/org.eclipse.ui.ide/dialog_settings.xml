@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="D:\www\projetos\carteiracompartilhada3\microservices-repo"/>
+		<item value="D:\www\projetos\carteiracompartilhada3\services\investimentos"/>
 		<item value="D:\www\projetos\carteiracompartilhada3\services\api-gateway-service"/>
 		<item value="D:\www\projetos\carteiracompartilhada3\services\eureka-server-service"/>
 		<item value="D:\www\projetos\carteiracompartilhada3\services\config-server-service"/>
