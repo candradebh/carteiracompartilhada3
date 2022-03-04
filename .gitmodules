@@ -13,6 +13,3 @@
 [submodule "services/investimentos"]
 	path = services/investimentos
 	url = https://github.com/candradebh/investimentos.git
-[submodule "frontend/front-vuejs-microservices"]
-	path = frontend/front-vuejs-microservices
-	url = https://github.com/candradebh/front-vuejs-microservices.git
