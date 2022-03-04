@@ -20,3 +20,8 @@ Executando os serviços:
 - 3 - api-gateway-service
 - 4 - auth-service
 - 5 - investimentos
+
+
+## Adicionando submodules
+
+git submodule add <url.git>
