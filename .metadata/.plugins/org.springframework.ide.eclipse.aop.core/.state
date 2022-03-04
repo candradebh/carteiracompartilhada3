@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="eureka-server-service"/>
+<aop-project name="api-gateway-service"/>
+<aop-project name="auth-service"/>
+<aop-project name="config-server-service"/>
+</aop-reference-model>

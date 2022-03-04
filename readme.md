@@ -13,3 +13,10 @@ Front end com Vue
 
 Back end com java usando microserviços
 
+Executando os serviços: 
+
+- 1 - config-server-service
+- 2 - eureka-server-service
+- 3 - api-gateway-service
+- 4 - auth-service
+- 5 - investimentos
