@@ -10,6 +10,3 @@
 [submodule "services/auth-service"]
 	path = services/auth-service
 	url = https://github.com/candradebh/auth-service.git
-[submodule "frontend/front-vuejs-microservices"]
-	path = frontend/front-vuejs-microservices
-	url = https://github.com/candradebh/front-vuejs-microservices.git
