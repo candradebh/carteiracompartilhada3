@@ -10,3 +10,9 @@
 [submodule "services/auth-service"]
 	path = services/auth-service
 	url = https://github.com/candradebh/auth-service.git
+[submodule "investimentos"]
+	path = investimentos
+	url = https://github.com/candradebh/investimentos.git
+[submodule "services/investimentos"]
+	path = services/investimentos
+	url = https://github.com/candradebh/investimentos.git
