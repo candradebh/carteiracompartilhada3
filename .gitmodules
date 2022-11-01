@@ -13,3 +13,6 @@
 [submodule "services/investimentos"]
 	path = services/investimentos
 	url = https://github.com/candradebh/investimentos.git
+[submodule "services/mercado-financeiro"]
+	path = services/mercado-financeiro
+	url = https://github.com/candradebh/mercado-financeiro
