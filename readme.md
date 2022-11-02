@@ -1,16 +1,9 @@
-## Front-End
-
-Front end com Vue
-
-### Instalando
-
-`npm install`
-`npm run lint`
-`npm run dev`
+# Start development
 
 ## Back-End
 
-Back end com java usando microserviços
+`git clone https://github.com/candradebh/carteiracompartilhada3`
+`git submodule update --init`
 
 Executando os serviços via (Compound intelij):
 
@@ -20,7 +13,7 @@ Executando os serviços via (Compound intelij):
 - 4 - auth-service
 - 5 - investimentos
 
-## Add a new Service
+### Add a new Service
 
 1 - Crie uma aplicacao string com as seguintes dependencias:
 
@@ -59,5 +52,17 @@ Executando os serviços via (Compound intelij):
 ### Adicionando submodules
 
 git submodule add <url.git>
+
+## Front-End
+
+Front end com Vue
+
+### Instalando
+
+`npm install`
+`npm run lint`
+`npm run dev`
+
+
 
 
