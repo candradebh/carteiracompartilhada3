@@ -1,5 +1,7 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="2 - EurekaServerApplication" type="Application" factoryName="Application">
+    <option name="ALTERNATIVE_JRE_PATH" value="17" />
+    <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
     <option name="MAIN_CLASS_NAME" value="dev.carlosandrade.microservice.eureka.EurekaServerApplication" />
     <module name="eureka-server" />
     <extension name="coverage">
