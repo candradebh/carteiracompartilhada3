@@ -4,6 +4,7 @@
 
 `git clone https://github.com/candradebh/carteiracompartilhada3`
 `git submodule update --init`
+`git submodule update --recusive`
 
 Executando os serviços via (Compound intelij):
 
