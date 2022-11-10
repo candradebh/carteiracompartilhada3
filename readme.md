@@ -13,6 +13,7 @@ Executando os serviços via (Compound intelij):
 - 3 - api-gateway-service
 - 4 - auth-service
 - 5 - investimentos
+- 6 - mercado financeiro
 
 ### Add a new Service
 

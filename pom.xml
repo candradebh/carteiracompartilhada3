@@ -17,6 +17,7 @@
         <module>services/auth-service</module>
         <module>services/mercado-financeiro</module>
         <module>services/investimentos</module>
+        <module>services/myinvest</module>
     </modules>
 
 
