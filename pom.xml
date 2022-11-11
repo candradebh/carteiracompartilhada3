@@ -8,7 +8,7 @@
     <artifactId>carteiracompartilhada3</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>carteiracompartilhada3</name>
-    <description>Carteira compartilhada 3</description>
+    <description>Carteira compartilhada 3 para tudo de dinheiro</description>
 
     <modules>
         <module>services/config-server-service</module>
