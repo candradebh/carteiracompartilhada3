@@ -16,3 +16,6 @@
 [submodule "services/mercado-financeiro"]
 	path = services/mercado-financeiro
 	url = https://github.com/candradebh/mercado-financeiro.git
+[submodule "services/mercado-financeiro"]
+    path = services/myinvest
+    url = https://github.com/candradebh/myinvest.git
