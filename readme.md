@@ -8,10 +8,10 @@
 
 Executando os serviços via (Compound intelij):
 
-- 1 - config-server-service (http://localhost:7777/)
-- 2 - eureka-server-service (http://localhost:8761/)
-- 3 - api-gateway-service
-- 4 - auth-service (http://localhost:8088/)
+- 1 - config-server-service (http://localhost:7777)
+- 2 - eureka-server-service (http://localhost:8761)
+- 3 - api-gateway-service (http://localhost:5555)
+- 4 - auth-service (http://localhost:8088)
 - 5 - investimentos
 - 6 - mercado financeiro
 
@@ -66,5 +66,7 @@ Front end com Vue
 `npm run dev`
 
 
+## Dicas
 
+- Rodando varias instancias para ver o loadBalance
 
