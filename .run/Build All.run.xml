@@ -4,9 +4,6 @@
     <toRun name="2 - EurekaServerApplication" type="Application" />
     <toRun name="3 - ZuulApplication" type="Application" />
     <toRun name="4 - AuthApplication" type="Application" />
-    <toRun name="5 - MercadoFinanceiroApplication" type="Application" />
-    <toRun name="6 - InvestimentosApplication" type="Application" />
-    <toRun name="7 - MyinvestApplication" type="Application" />
     <method v="2" />
   </configuration>
 </component>
