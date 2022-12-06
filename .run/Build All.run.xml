@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Build All" type="CompoundRunConfigurationType">
+    <toRun name="1 - ConfigServerApplication" type="Application" />
+    <toRun name="2 - EurekaServerApplication" type="Application" />
+    <toRun name="3 - ZuulApplication" type="Application" />
+    <toRun name="4 - AuthApplication" type="Application" />
+    <method v="2" />
+  </configuration>
+</component>
