@@ -1,0 +1,9 @@
+git clone https://github.com/candradebh/microservices-repo
+
+git clone https://github.com/candradebh/config-server-service
+
+git clone https://github.com/candradebh/eureka-server-service
+
+git clone https://github.com/candradebh/api-gateway-service
+
+git clone https://github.com/candradebh/auth-service
